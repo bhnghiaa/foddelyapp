@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881973893706",
+    "project_id": "foodely-eeede",
+    "storage_bucket": "foodely-eeede.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881973893706:android:b1380b7e1a64df5560e4b3",
+        "android_client_info": {
+          "package_name": "com.clientapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlOipuEDqgsIRX7Pag9n3fJeebDMvJH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881973893706:android:84b16e301480110060e4b3",
+        "android_client_info": {
+          "package_name": "com.restaurantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlOipuEDqgsIRX7Pag9n3fJeebDMvJH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
